@@ -3,14 +3,14 @@
 ### Team Members
 
 <pre>
-  <strong>Tanisha Sabherwal<strong> - 1MS17IS146
-  <strong>Rithika Mehta<strong> - 1MS17IS092
-  <strong>Shirsh Vardhan Kashyap<strong> - 1MS17IS112
+  <strong>Gautam MG<strong> - 1MS17IS160
+  <strong>Bhaskar<strong> - 1MS18IS406
+  
 </pre>
 
 
 
 ### Assignments
 
-- [Assignment 1 : Multi Layer Perceptron](https://github.com/tanisha03/ML-Assignment-Sem6/blob/master/Assignment_MLP/mlp-program.py)  
+- [Assignment 1 : Multi Layer Perceptron](https://github.com/Gautam-MG/ML-Assignment-6SEM/blob/master/Assignment_MLP/mlp-program.py)  
 
